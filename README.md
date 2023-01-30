@@ -114,7 +114,7 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
     - [Argentina](https://9gag.com/tag/argentina).
     - [Chile](https://9gag.com/tag/chile).
     - [Colômbia](https://9gag.com/tag/colombia).
-    - [Cuba ](https://9gag.com/tag/cuba).
+    - [Cuba](https://9gag.com/tag/cuba).
     - [México](https://9gag.com/tag/mexico).
     - [Uruguai](https://9gag.com/tag/uruguay).
 
