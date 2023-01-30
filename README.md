@@ -1,4 +1,4 @@
-# HABLA ESPAÑOL
+# :es: HABLA ESPAÑOL
 
 Recursos para el estudio de la lengua española.
 
@@ -6,7 +6,7 @@ Recursos para el estudio de la lengua española.
 <br/>
 
 
-## PLANO DE ESTUDOS
+## :brazil: PLANO DE ESTUDOS
 
 ### MOTIVAÇÕES:
 * Mapear o processo de aquisição de nova linguagem para desenvolver curso on-line.
@@ -52,8 +52,8 @@ Recursos para el estudio de la lengua española.
 ### TÉCNICAS
 
 * [Técnica Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro):
-    - Programar 30min de estudo.
-    - Alternar com pausa, ouvir música.
+    - Programar para 30min de estudo.
+    - Alternar com pausa; ouvir música.
 
 - - -
 <br/>
