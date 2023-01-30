@@ -2,7 +2,7 @@
 
 Recursos para el estudio de la [lengua española](https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana).
 
-Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)" en Wikipedia. 
+Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)" en Wikipedia.
 
 - - -
 <br/>
@@ -71,14 +71,14 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
 ### JORNAIS
 
 * Argentina:
-    - [Clarín](https://www.clarin.com/)
-    - [La Nacion](https://www.lanacion.com.ar/)
-    - [Diário Democracia](https://www.diariodemocracia.com/)
+    - [Clarín](https://www.clarin.com/).
+    - [La Nacion](https://www.lanacion.com.ar/).
+    - [Diário Democracia](https://www.diariodemocracia.com/).
 
 * Espanha:
-    - [El País](https://elpais.com/)
-    - [El Mundo](https://www.elmundo.es/)
-    - [20 Minutos](https://www.20minutos.es/)
+    - [El País](https://elpais.com/).
+    - [El Mundo](https://www.elmundo.es/).
+    - [20 Minutos](https://www.20minutos.es/).
 
 
 
@@ -96,7 +96,7 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
     - [CLARÍN](https://www.youtube.com/@clarincom).
 
 * TV Espanha:
-    - [El País](https://www.youtube.com/@elpais);
+    - [El País](https://www.youtube.com/@elpais).
     - [RTVE Noticias](https://www.youtube.com/@rtvenoticias).
     - [El Mundo](https://www.youtube.com/@elmundo).
     - [España Diario](https://www.youtube.com/@EspanaDiario).
