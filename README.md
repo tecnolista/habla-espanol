@@ -106,5 +106,17 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
     - [Spanish Fairy Tales](https://www.youtube.com/@SpanishFairyTales).
     - [T-Series Kids Hut - Cuentos en Español](https://www.youtube.com/@TSeriesKidsHutCuentosenEspanol).
 
+
+
+### COMUNIDADES WEB
+
+* 9GAG Memes:
+    - [Argentina](https://9gag.com/tag/argentina).
+    - [Chile](https://9gag.com/tag/chile).
+    - [Colômbia](https://9gag.com/tag/colombia).
+    - [Cuba ](https://9gag.com/tag/cuba).
+    - [México](https://9gag.com/tag/mexico).
+    - [Uruguai](https://9gag.com/tag/uruguay).
+
 - - -
 <br/>
