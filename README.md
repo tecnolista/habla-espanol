@@ -48,5 +48,12 @@ Recursos para el estudio de la lengua española.
     - (30min) Estudo de Espanhol em Canal YouTube.
     - (01hor) Assistir filmes/séries no NetFlix.
 
+
+### TÉCNICAS
+
+* [Técnica Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro):
+    - Programar 30min de estudo.
+    - Alternar com pausa, ouvir música.
+
 - - -
 <br/>
