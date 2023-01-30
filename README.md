@@ -54,6 +54,7 @@ Recursos para el estudio de la lengua española.
 * [Técnica Pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro):
     - Programar para 30min de estudo.
     - Alternar com pausa; ouvir música.
+    - Uso do aplicativo [Pomodoro Timer](https://play.google.com/store/apps/details?id=com.pomodrone.app).
 
 - - -
 <br/>
