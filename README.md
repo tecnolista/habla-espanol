@@ -47,14 +47,14 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
 * Manhã:
     - (30min) Curso de Espanhol em Aplicativo ([Duolingo](https://pt.duolingo.com/)).
     - (30min) Aulas de Espanhol em Canal YouTube.
-    - (30min) Ler jornais e blogs de portais de notícias.
+    - (30min) Ler jornais e artigos de portais de notícias.
     - (30min) Ver redes sociais e comunidades de memes.
     - (30min) Assistir TV da Argentina no YouTube.
     - (30min) Praticar ditado com contos infantis.
 
 * Noite:
     - (30min) Curso de Espanhol em Aplicativo ([Busuu](https://www.busuu.com/pt)).
-    - (30min) Aulas de Espanhol em Canal YouTube.
+    - (30min) Dicas de Espanhol em Canal YouTube.
     - (01hor) Assistir filmes/séries nativas no [Netflix](https://www.netflix.com/browse/original-audio/100396/es?so=az).
 
 
