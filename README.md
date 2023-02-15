@@ -12,7 +12,7 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
 
 ### MOTIVAÇÕES
 
-* Mapear o processo de aquisição de nova linguagem para desenvolver curso on-line.
+* Mapear o processo de aquisição de nova linguagem para seguir aprendendo idiomas.
 * Adquirir fluência em espanhol o suficiente para residir na Argentina (2024).
 * Aprender mais sobre as diferentes culturas dos países latinos de língua espanhola.
 
@@ -24,8 +24,8 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
     - Também não gastar nada com cursos online ou apps.
 * Dedicar (inicialmente) ao dialeto do Espanhol falado na Argentina.
     - Identificar os diferentes sotaques regionais no país.
-* Estudar 5h por dia, todos os dias sem exceções (primeira e última atividade).
-    - Estudos pela manhã ao acordar (3h) e a noite antes de dormir (2h).
+* Estudar 3h por dia, todos os dias sem exceções (primeira e última atividade).
+    - Estudos pela manhã ao acordar (2h) e a noite antes de dormir (1h).
 * Primeiro focar na fluência, em seguida aperfeiçoar a proficiência.
     - Após aprender suficiente proficiência, tentar a certificação SIELE.
 
@@ -44,17 +44,18 @@ Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)"
 
 ### ATIVIDADES
 
-* Manhã:
+* Segunda, Quarta, Sexta:
     - (30min) Curso de Espanhol em Aplicativo ([Duolingo](https://pt.duolingo.com/)).
-    - (30min) Aulas de Espanhol em Canal YouTube.
-    - (30min) Ler jornais e artigos de portais de notícias.
-    - (30min) Ver redes sociais e comunidades de memes.
-    - (30min) Assistir TV da Argentina no YouTube.
+    - (30min) Aulas de Espanhol em Canais YouTube.
     - (30min) Praticar ditado com contos infantis.
+    - (30min) Ver redes sociais e comunidades de memes.
+    - (01hor) Assistir TV da Argentina no YouTube.
 
-* Noite:
+* Terça, Quinta, Sábado, Domingo:
     - (30min) Curso de Espanhol em Aplicativo ([Busuu](https://www.busuu.com/pt)).
-    - (30min) Dicas de Espanhol em Canal YouTube.
+    - (30min) Dicas de Espanhol em Canais YouTube.
+    - (30min) Praticar ditado com contos infantis.
+    - (30min) Ler jornais e artigos de portais de notícias.
     - (01hor) Assistir filmes/séries nativas no [Netflix](https://www.netflix.com/browse/original-audio/100396/es?so=az).
 
 
