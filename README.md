@@ -6,18 +6,18 @@
 
 <p align="justify">Estou compartilhando meu processo de estudos no canal YouTube da United Sapiens para promover uma troca de experiências na aquisição de novos idiomas. Se você já estuda espanhol ou outro idioma, e tem feito alguma atividade que tenha lhe ajudado a adquirir fluência mais rápido, agradeceria muito se pudesse compartilhar sua experiência comigo.</p>
 
-Inscreva-se em nosso canal e confira o podcast UNITED SAPIENS FORUM:
-https://www.youtube.com/@unitedsapiens
+Inscreva-se no canal e confira o podcast UNITED SAPIENS FORUM: <a href="https://www.youtube.com/@unitedsapiens">www.youtube.com/@unitedsapiens</a>
 
 
-### Iniciando os Estudos
+### INICIANDO OS ESTUDOS
 
 <p align="justify">Bom, a primeira coisa que eu fiz foi pesquisar no Google as melhores técnicas, estratégias e dicas para o aprendizado de um novo idioma. Fiquei uma semana lendo artigos e assistindo vídeos de especialistas em idiomas, poliglotas e professores. Também vi muitos vídeos de pessoas que já aprenderam outro idioma, principalmente o espanhol, e postaram no YouTube o que funcionou para eles, o que era perda de tempo, dicas e macetes e tal.</p>
 
-<p align="justify">Todas as anotações que eu fiz eu deixei registradas em um arquivo texto, e criei este repositório em minha conta do GitHub para armazenar estas anotações e quaisquer outros recursos que eu utilizar no aprendizado. Se você tiver interesse, pode acessar o arquivo (rascunho) de notas aqui: [Notes.txt](https://github.com/tecnolista/habla-espanol/blob/main/NOTES.txt).</p>
+<p align="justify">Todas as anotações que eu fiz eu deixei registradas em um arquivo texto, e criei este repositório em minha conta do GitHub para armazenar estas anotações e quaisquer outros recursos que eu utilizar no aprendizado. Se você tiver interesse, pode acessar o arquivo (rascunho) de notas aqui: <a href="https://github.com/tecnolista/habla-espanol/blob/main/NOTES.txt">Notes.txt</a>.</p>
 
-<p align="justify">A recomendação dos especialistas é que você inicie o aprendizado com um plano de estudo. Então eu fiz esse plano abaixo, e estou tentando segui-lo diariamente. Também recomendaram ler sobre o próprio idioma, para saber um pouco mais de suas particularidades e entender as diferenças culturais pertinentes a uma língua. Então eu li esse artigo na Wikipedia sobre a [Língua Castelhana]( https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana). O artigo correspondente em espanhol é mais completo, deixei como meta conseguir ler e entender todo o seu conteúdo: [Idioma Español]( https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol).</p>
+<p align="justify">A recomendação dos especialistas é que você inicie o aprendizado com um plano de estudo. Então eu fiz esse plano abaixo, e estou tentando segui-lo diariamente. Também recomendaram ler sobre o próprio idioma, para saber um pouco mais de suas particularidades e entender as diferenças culturais pertinentes a uma língua. Então eu li esse artigo na Wikipedia sobre a <a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana">Língua Castelhana</a>. O artigo correspondente em espanhol é mais completo, deixei como meta conseguir ler e entender todo o seu conteúdo: <a href="https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol">Idioma Español</a>.</p>
 
+<br/>
 - - -
 <br/>
 
@@ -59,18 +59,18 @@ https://www.youtube.com/@unitedsapiens
 ### ATIVIDADES
 
 * Segunda, Quarta, Sexta:
-    - (30min) Curso de Espanhol em Aplicativo ([Duolingo](https://pt.duolingo.com/)).
-    - (30min) Aulas de Espanhol em Canais YouTube.
-    - (30min) Praticar ditado com contos infantis.
-    - (30min) Ver redes sociais e comunidades de memes.
-    - (01hor) Assistir TV da Argentina no YouTube.
+    - (30min) Curso de Espanhol em Aplicativo ([Duolingo](https://pt.duolingo.com/)): .
+    - (30min) Aulas de Espanhol em Canais YouTube: .
+    - (30min) Praticar ditado com contos infantis: .
+    - (30min) Ver redes sociais e comunidades de memes: .
+    - (01hor) Assistir TV da Argentina no YouTube: .
 
 * Terça, Quinta, Sábado, Domingo:
-    - (30min) Curso de Espanhol em Aplicativo ([Busuu](https://www.busuu.com/pt)).
-    - (30min) Dicas de Espanhol em Canais YouTube.
-    - (30min) Praticar ditado com contos infantis.
-    - (30min) Ler jornais e artigos de portais de notícias.
-    - (01hor) Assistir filmes/séries nativas no [Netflix](https://www.netflix.com/browse/original-audio/100396/es?so=az).
+    - (30min) Curso de Espanhol em Aplicativo ([Busuu](https://www.busuu.com/pt)): .
+    - (30min) Dicas de Espanhol em Canais YouTube: .
+    - (30min) Praticar ditado com contos infantis: .
+    - (30min) Ler jornais e artigos de portais de notícias: .
+    - (01hor) Assistir filmes/séries nativas no [Netflix](https://www.netflix.com/browse/original-audio/100396/es?so=az): .
 
 
 
