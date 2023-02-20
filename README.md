@@ -16,6 +16,7 @@ Inscreva-se no canal e confira o podcast UNITED SAPIENS FORUM: <a href="https://
 <p align="justify">Todas as anotações que eu fiz eu deixei registradas em um arquivo texto, e criei este repositório em minha conta do GitHub para armazenar estas anotações e quaisquer outros recursos que eu utilizar no aprendizado. Se você tiver interesse, pode acessar o arquivo (rascunho) de notas aqui: <a href="https://github.com/tecnolista/habla-espanol/blob/main/NOTES.txt">Notes.txt</a>.</p>
 
 <p align="justify">A recomendação dos especialistas é que você inicie o aprendizado com um plano de estudo. Então eu fiz esse plano abaixo, e estou tentando segui-lo diariamente. Também recomendaram ler sobre o próprio idioma, para saber um pouco mais de suas particularidades e entender as diferenças culturais pertinentes a uma língua. Então eu li esse artigo na Wikipedia sobre a <a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana">Língua Castelhana</a>. O artigo correspondente em espanhol é mais completo, deixei como meta conseguir ler e entender todo o seu conteúdo: <a href="https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol">Idioma Español</a>.</p>
+<br />
 
 - - -
 <br />
