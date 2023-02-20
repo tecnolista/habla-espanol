@@ -1,8 +1,22 @@
 # :es: HABLA ESPAÑOL
 
-Recursos para el estudio de la [lengua española](https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana).
+<p align="justify">Olá! Eu me chamo Raul Bras, sou matemático e analista de sistemas. Recentemente comecei a aprender espanhol. Eu e minha esposa decidimos nos mudarmos para a Argentina no próximo ano, por questões familiares. Então, eu resolvi iniciar o estudo da língua espanhola agora em janeiro. Como a gente pretende se mudar em 2024, eu estabeleci como meta me tornar fluente em espanhol em 1 ano.</p>
 
-Artículo "[Idioma Español](https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol)" en Wikipedia.
+<p align="justify">É um desafio pessoal, e também uma oportunidade para mapear esse meu aprendizado para que eu possa utilizar na aquisição de outros idiomas. No futuro pretendo desenvolver um site para o aprendizado de idiomas, e pretendo disponibilizar gratuitamente todos os cursos que eu conseguir implementar.</p>
+
+<p align="justify">Estou compartilhando meu processo de estudos no canal YouTube da United Sapiens para promover uma troca de experiências na aquisição de novos idiomas. Se você já estuda espanhol ou outro idioma, e tem feito alguma atividade que tenha lhe ajudado a adquirir fluência mais rápido, agradeceria muito se pudesse compartilhar sua experiência comigo.</p>
+
+Inscreva-se em nosso canal e confira o podcast UNITED SAPIENS FORUM:
+https://www.youtube.com/@unitedsapiens
+
+
+### Iniciando os Estudos
+
+<p align="justify">Bom, a primeira coisa que eu fiz foi pesquisar no Google as melhores técnicas, estratégias e dicas para o aprendizado de um novo idioma. Fiquei uma semana lendo artigos e assistindo vídeos de especialistas em idiomas, poliglotas e professores. Também vi muitos vídeos de pessoas que já aprenderam outro idioma, principalmente o espanhol, e postaram no YouTube o que funcionou para eles, o que era perda de tempo, dicas e macetes e tal.</p>
+
+<p align="justify">Todas as anotações que eu fiz eu deixei registradas em um arquivo texto, e criei este repositório em minha conta do GitHub para armazenar estas anotações e quaisquer outros recursos que eu utilizar no aprendizado. Se você tiver interesse, pode acessar o arquivo (rascunho) de notas aqui: [Notes.txt](https://github.com/tecnolista/habla-espanol/blob/main/NOTES.txt).</p>
+
+<p align="justify">A recomendação dos especialistas é que você inicie o aprendizado com um plano de estudo. Então eu fiz esse plano abaixo, e estou tentando segui-lo diariamente. Também recomendaram ler sobre o próprio idioma, para saber um pouco mais de suas particularidades e entender as diferenças culturais pertinentes a uma língua. Então eu li esse artigo na Wikipedia sobre a [Língua Castelhana]( https://pt.wikipedia.org/wiki/L%C3%ADngua_castelhana). O artigo correspondente em espanhol é mais completo, deixei como meta conseguir ler e entender todo o seu conteúdo: [Idioma Español]( https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol).</p>
 
 - - -
 <br/>
