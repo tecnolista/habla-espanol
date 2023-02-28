@@ -1,12 +1,19 @@
 # :es: HABLA ESPAÑOL
 
-<p align="justify">Olá! Eu me chamo Raul Bras, sou matemático e analista de sistemas. Recentemente comecei a aprender espanhol. Eu e minha esposa decidimos nos mudarmos para a Argentina no próximo ano, por questões familiares. Então, eu resolvi iniciar o estudo da língua espanhola agora em janeiro. Como a gente pretende se mudar em 2024, eu estabeleci como meta me tornar fluente em espanhol em 1 ano.</p>
+<p align="justify">Olá! Recentemente comecei a aprender espanhol. Eu e minha esposa decidimos nos mudarmos para a Argentina no próximo ano, por questões familiares. Então, eu resolvi iniciar o estudo da língua espanhola agora em janeiro. Como a gente pretende se mudar em 2024, eu estabeleci como meta me tornar fluente em espanhol em 1 ano.</p>
 
 <p align="justify">É um desafio pessoal, e também uma oportunidade para mapear esse meu aprendizado para que eu possa utilizar na aquisição de outros idiomas. No futuro pretendo desenvolver um site com dicas para o aprendizado de idiomas, e também pretendo disponibilizar todos os cursos que eu conseguir implementar.</p>
 
-<p align="justify">Estou compartilhando meu processo de estudos no canal YouTube da United Sapiens para promover uma troca de experiências na aquisição de novos idiomas. Se você já estuda espanhol ou outro idioma, e tem feito alguma atividade que tenha lhe ajudado a adquirir fluência mais rápido, agradeceria muito se pudesse compartilhar sua experiência comigo.</p>
+<p align="justify">Estou compartilhando meu processo de estudos em um canal YouTube para promover uma troca de experiências na aquisição de novos idiomas. Se você já estuda espanhol ou outro idioma, e tem feito alguma atividade que tenha lhe ajudado a adquirir fluência mais rápido, agradeceria muito se pudesse compartilhar sua experiência comigo. Inscreva-se no canal e confira também o grupo que criei no Telegram para troca de informações, arquivos e links.</p>
 
-Inscreva-se no canal e confira o podcast UNITED SAPIENS FORUM: <a href="https://www.youtube.com/@unitedsapiens">www.youtube.com/@unitedsapiens</a>.
+
+<p>
+    <a href="https://www.twitter.com/tecnolistas"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.t.me/tecnolista"><img src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.t.me/tecnolista"><img src="https://img.shields.io/badge/grupo%20telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=32></a> &nbsp;&nbsp;
+    <a href="https://www.youtube.com/@ForumBabel"><img src="https://img.shields.io/badge/canal%20youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=32></a>
+</p>
+<br />
 
 
 ### INICIANDO OS ESTUDOS
